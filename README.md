@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Abir Affane
 
-I’m a **Master 1 student in Distributed Network & Systems** at **Université des Sciences et de la Technologie**, specializing in computer networks, security, and distributed systems.  
+🎓 Master 1 – Networks & Distributed Systems  
+Université des Sciences et de la Technologie Mohamed Boudiaf (USTO-MB), Oran, Algeria  
 
-I am passionate about **cybersecurity, cryptography, mobile & web development**, and creating secure and efficient software solutions.
+Passionate about cybersecurity, distributed systems, cryptography, and full-stack development. I enjoy building secure, efficient, and innovative solutions in software and mobile applications.  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Master 1 in Distributed Network & Systems – Université des Sciences et de la Technologie, Algeria (2025-2026)  
-- 🔒 Specializing in Network Security, Cryptography, and Full Stack Development  
-- 💻 Experienced in developing mobile and web applications using Flutter, Dart, and JavaScript  
-- 🌱 Always learning about secure software development and distributed systems  
+
+- Currently pursuing Master 1 in Networks & Distributed Systems at USTO-MB  
+- Specialized in cybersecurity, cryptography, and full-stack development  
+- Enthusiastic about learning new technologies and improving system security  
 
 ---
 
@@ -20,38 +21,49 @@ I am passionate about **cybersecurity, cryptography, mobile & web development**,
 **Databases & Data Tools:** MongoDB, SQLite, Firebase, Power BI  
 **Development & Collaboration Tools:** Git, GitHub, GitLab, VS Code  
 **Security & Cryptography:** AES-256 CBC, Network Security Basics  
+**Problem Solving:** Complex problem solving, Analytical thinking  
 
 ---
 
-## 📂 Featured Projects
-**CryptoChat** – Secure messaging app with AES encryption  
-- Real-time chat, file sharing, and video calls  
-- End-to-end encryption using AES-256 CBC  
+## 📂 Projects Highlights
 
-**University Mobile App** – Student management system  
+**University Mobile App (2025)**  
+- Flutter-based cross-platform mobile application for university management  
 - Multi-profile authentication (students, parents, teachers)  
-- Flutter-based cross-platform mobile application  
+- Features: attendance, grades, schedules, notifications, and settings  
+- Implemented AES-256 CBC encryption for secure data handling  
 
-*Other projects can be added here as you develop them.*
-
----
-
-## 💼 Professional Experience
-- Internship – [Company Name / Optional]  
-  - Assisted in system maintenance and data management  
-  - Contributed to internal documentation and software testing  
+**Cryptochat App (2025)**  
+- Web and mobile messaging app with end-to-end encryption  
+- AES-GCM for message and file encryption  
+- Real-time chat, voice messages, video calls, file sharing  
+- Modern UI inspired by WhatsApp/Snapchat  
 
 ---
 
 ## 🎓 Education
-- 2025-2026: Master 1 – Distributed Network & Systems – Université des Sciences et de la Technologie, Algeria  
-- 2023-2025: License in Computer Science – [University Name]  
+
+- **Master 1 Networks & Distributed Systems**, USTO-MB, Oran, Algeria  
+- **Bachelor’s in Computer Science – Information Systems Engineering**, USTO-MB, Oran, Algeria  
+- **Technical Baccalaureate – Mathematics**, Lycée Kassdi Merbah, Oran, Algeria  
+
+**Languages:**  
+- Arabic: Native  
+- French: C1  
+- English: B1  
+
+---
+
+## 🎯 Interests
+
+- Tennis  
+- Technology watch in networks & systems  
+- Complex problem solving  
 
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [abiraffane9@gmail.com](mailto:abiraffane9@gmail.com)  
-- 🔗 LinkedIn: [Abir Affane](https://www.linkedin.com/in/abir-affane-91a2173ab/)  
-- 🐙 GitHub: [@AbirAFFANE](https://github.com/AbirAFFANE)  
 
----
+- **Email:** abiraffane9@gmail.com  
+- **LinkedIn:** [Abir Affane](https://www.linkedin.com/in/abir-affane-91a2173ab/)  
+- **GitHub:** [@AbirAFFANE](https://github.com/AbirAFFANE)
